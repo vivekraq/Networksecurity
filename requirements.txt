@@ -4,7 +4,8 @@ numpy
 pymongo
 certifi
 scikit-learn
-
-
-
+dill
+pyaml
+mlflow
+dagshub
 ##-e .
